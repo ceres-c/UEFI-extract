@@ -1,0 +1,3 @@
+[submodule "eltorito"]
+	path = eltorito
+	url = https://github.com/ceres-c/eltorito.git
